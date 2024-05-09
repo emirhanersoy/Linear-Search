@@ -1,0 +1,7 @@
+C:\Users\Emirhan\Source\Repos\Algoritmalar\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe.config
+C:\Users\Emirhan\Source\Repos\Algoritmalar\LinearSearch\LinearSearch\bin\Debug\LinearSearch.exe
+C:\Users\Emirhan\Source\Repos\Algoritmalar\LinearSearch\LinearSearch\bin\Debug\LinearSearch.pdb
+C:\Users\Emirhan\Source\Repos\Algoritmalar\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csproj.AssemblyReference.cache
+C:\Users\Emirhan\Source\Repos\Algoritmalar\LinearSearch\LinearSearch\obj\Debug\LinearSearch.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan\Source\Repos\Algoritmalar\LinearSearch\LinearSearch\obj\Debug\LinearSearch.exe
+C:\Users\Emirhan\Source\Repos\Algoritmalar\LinearSearch\LinearSearch\obj\Debug\LinearSearch.pdb
